@@ -189,6 +189,9 @@ address{
     border-bottom: 2px solid lightpink;
     text-align: center;
 }
+.email{
+    margin-left: 20%;
+}
 
 /* media queries */
 @media(max-width:800px){
